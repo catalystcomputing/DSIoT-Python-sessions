@@ -1,0 +1,24 @@
+# Diabetes dataset
+
+- 442 samples
+- Consists of 10 features and 1 target
+
+## Features
+
+- Age
+- Sex
+- Body mass index
+- Average blood pressure
+- S1, S2, ... S6 -> these are blood serum measurement
+
+N.B. All features have been standardized :
+for each feature, we compute the mean and standard deviation
+then for each sample and for each feature, 
+we subtract the mean and divide by the standard deviation
+of the relevant feature.
+
+This is why Age is not an integer.
+
+## Target
+
+This is a quantitative measure of disease progression one year after baseline

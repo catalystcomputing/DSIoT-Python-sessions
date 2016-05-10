@@ -1,0 +1,42 @@
+CategoryID	Category	CategoryFullNodeList	ParentCategoryID	TreeLeft	TreeRight	AncestorLevel
+0	 	 	0	1	82	0
+1	Unclassified	::Unclassified	0	2	3	1
+2	News & Mags	::News/Mags	0	4	81	1
+4	Mags	::News/Mags::Magazines	2	5	80	2
+526	Leisure Interests	::News/Mags::Magazines::Leisure Interests	4	6	79	3
+527	Antiques	::News/Mags::Magazines::Leisure Interests::Antiques	526	7	8	4
+528	Art	::News/Mags::Magazines::Leisure Interests::Art	526	9	10	4
+529	Aviation	::News/Mags::Magazines::Leisure Interests::Aviation	526	11	12	4
+530	Boating	::News/Mags::Magazines::Leisure Interests::Boating	526	13	14	4
+531	Camping /Walking /Climbing	::News/Mags::Magazines::Leisure Interests::Camping /Walking /Climbing	526	15	16	4
+532	Collecting	::News/Mags::Magazines::Leisure Interests::Collecting	526	17	18	4
+533	Crafts	::News/Mags::Magazines::Leisure Interests::Crafts	526	19	20	4
+534	Dance & Theatre	::News/Mags::Magazines::Leisure Interests::Dance & Theatre	526	21	22	4
+535	Electronics & Radio	::News/Mags::Magazines::Leisure Interests::Electronics & Radio	526	23	24	4
+536	Entertainment / Listings	::News/Mags::Magazines::Leisure Interests::Entertainment / Listings	526	25	26	4
+537	Equestrian	::News/Mags::Magazines::Leisure Interests::Equestrian	526	27	28	4
+538	Film & Video Reviews	::News/Mags::Magazines::Leisure Interests::Film & Video Reviews	526	29	30	4
+539	Games	::News/Mags::Magazines::Leisure Interests::Games	526	31	32	4
+540	General Health & Fitness	::News/Mags::Magazines::Leisure Interests::General Health & Fitness	526	33	34	4
+541	Hi-Fi	::News/Mags::Magazines::Leisure Interests::Hi-Fi	526	35	36	4
+542	Holiday / Travel	::News/Mags::Magazines::Leisure Interests::Holiday / Travel	526	37	38	4
+543	Home Entertainment	::News/Mags::Magazines::Leisure Interests::Home Entertainment	526	39	40	4
+544	Military	::News/Mags::Magazines::Leisure Interests::Military	526	41	42	4
+545	Modelling	::News/Mags::Magazines::Leisure Interests::Modelling	526	43	44	4
+546	Pets	::News/Mags::Magazines::Leisure Interests::Pets	526	45	56	4
+547	Birds	::News/Mags::Magazines::Leisure Interests::Pets::Birds	546	46	47	5
+548	Cats	::News/Mags::Magazines::Leisure Interests::Pets::Cats	546	48	49	5
+549	Other	::News/Mags::Magazines::Leisure Interests::Pets::Other	546	50	51	5
+550	Dogs	::News/Mags::Magazines::Leisure Interests::Pets::Dogs	546	52	53	5
+551	Fish	::News/Mags::Magazines::Leisure Interests::Pets::Fish	546	54	55	5
+552	Photography	::News/Mags::Magazines::Leisure Interests::Photography	526	57	58	4
+553	Racing & Betting	::News/Mags::Magazines::Leisure Interests::Racing & Betting	526	59	60	4
+554	Radio Controlled Modelling	::News/Mags::Magazines::Leisure Interests::Radio Controlled Modelling	526	61	62	4
+555	Railways	::News/Mags::Magazines::Leisure Interests::Railways	526	63	68	4
+556	Steam	::News/Mags::Magazines::Leisure Interests::Railways::Steam	555	64	65	5
+557	Modern	::News/Mags::Magazines::Leisure Interests::Railways::Modern	555	66	67	5
+558	Transport General	::News/Mags::Magazines::Leisure Interests::Transport General	526	69	70	4
+559	TV & Film Spin Offs	::News/Mags::Magazines::Leisure Interests::TV & Film Spin Offs	526	71	72	4
+560	Video & Camcorders	::News/Mags::Magazines::Leisure Interests::Video & Camcorders	526	73	74	4
+561	Wildlife	::News/Mags::Magazines::Leisure Interests::Wildlife	526	75	76	4
+562	Yatching	::News/Mags::Magazines::Leisure Interests::Yatching	526	77	78	4
