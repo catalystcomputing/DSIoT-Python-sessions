@@ -1,9 +1,12 @@
 # Plan
 
-- Convert to dictionary
-- Split description into dictionary values
-	- In position order attributes calls pos1, pos2
-	- In alphabetic order alpha1, alpha2
+- Convert to dictionary and vectorise
+- Vectorise description text by word
+	- Try stop words
+- Combine Whole description string, vectorisd and vectorise description text by word
+- Add spell checking
+	- Remove duplicate rows after spell checking
+- Where multi entries per barcode exists test these to see if they still end up in the same category
 
 Links:
 http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/
