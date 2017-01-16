@@ -4,6 +4,7 @@
 
 ## Anaconda installation
 
+- All code assumes Python 2.7
 - Anaconda installation give 300+ libraries and a package installation and maintenance
 
 Download installer for your environment, Anaconda runs on Windows, Mac OS and Linux.   
