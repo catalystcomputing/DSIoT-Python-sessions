@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-## Anaconda installation
+### Anaconda installation
 
 - All code assumes Python 2.7
 - Anaconda installation give 300+ libraries and a package installation and maintenance
@@ -11,14 +11,27 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 
 [https://www.continuum.io/downloads](https://www.continuum.io/downloads "anaconda installation")
 
-## jupyter notebooks - Interactive interpreter
+## Using jupyter/iPython notebooks
 
-`cd <code directory>` 
+- Extract/Download session files
+- Open command prompt or terminal/shell window
+- Go to session folder`cd <session directory>`
+    - `dir` or `ls` should show `code  data  extra time  figures  SessionNotes.md`
+- Run jupyter/iPython `jupyter notebook`
+- If Anaconda is installed correctly and jupyter is in your path:
+    - Start-up messages should appear in the terminal window
+    - Your default browser should start with something like `http://localhost:8888/`
+    [figures/Jupyter.png](figures/Jupyter.png "Jupyter")
+    - Check logs on screen and firewalls etc if this does not happen
 
-Windows: `jupyter.exe notebook`
-Mac/Linux: `jupyter notebook`
+## Running the notebooks
 
-By default this starts your default browser `http://localhost:8888/`
+- Click on the `code` folder
+- In the code folder the exercises are numbered click on each one in turn
+- The first is about jupyter/iPython
+- 2 - 6 is about Python
+- 7 - 10 goes into the data science libaraies and examples on how they work
+- The `extra time` folder (at the same level as `code`) is a folder for extra work
 
 ### jupyter/iPython keyboard shortcuts
 
