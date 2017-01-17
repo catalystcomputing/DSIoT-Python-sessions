@@ -16,21 +16,35 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 - Extract/Download session files
 - Open command prompt or terminal/shell window
 - Go to session folder`cd <session directory>`
-    - `dir` or `ls` should show `code  data  extra time  figures  SessionNotes.md`
+    - `dir` or `ls` should show `code  data  extra time  figures  SessionNotes.md SessionNotes.pdf`
 - Run jupyter/iPython `jupyter notebook`
 - If Anaconda is installed correctly and jupyter is in your path:
     - Start-up messages should appear in the terminal window
     - Your default browser should start with something like `http://localhost:8888/`
     [figures/Jupyter.png](figures/Jupyter.png "Jupyter")
     - Check logs on screen and firewalls etc if this does not happen
+- Using a notebook allows code and documentation to be combined.
+- To run the code in each cell either click the play button on the jupyter toolbar or press Shift-Enter.
+- The cells in these notebooks are either code or Markdown. To see the Markdown code double click the cell.
+- Code cells can be re-run as often as you wish, this allows for you to make changes and see the results.
 
 ## Running the notebooks
 
 - Click on the `code` folder
 - In the code folder the exercises are numbered click on each one in turn
-- The first is about jupyter/iPython
-- 2 - 6 is about Python
-- 7 - 10 goes into the data science libaraies and examples on how they work
+- Session 01 jupyter notebooks
+- Sessions 2-6 Python basics
+    - Assignment
+    - Flow Control
+    - Data Structures
+    - Functions
+    - Modules
+- Session 07 NumPy
+- Session 08 Matplotlib
+- Session 09 Pandas
+    - Part 1
+    - Part 2
+- Session 10 Supervised Machine Learning - scikit learn
 - The `extra time` folder (at the same level as `code`) is a folder for extra work
 
 ### jupyter/iPython keyboard shortcuts
