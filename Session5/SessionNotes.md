@@ -4,6 +4,7 @@
 
 ### Anaconda installation
 
+- The code in this session will work with either 32 bit or 64 bit versions
 - All code assumes Python 2.7
 - Anaconda installation give 300+ libraries and a package installation and maintenance
 
@@ -21,7 +22,7 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 - If Anaconda is installed correctly and jupyter is in your path:
     - Start-up messages should appear in the terminal window
     - Your default browser should start with something like `http://localhost:8888/`
-    [figures/Jupyter.png](figures/Jupyter.png "Jupyter")
+    ![Image of Jupyter/iPython Notebook tree](figures/Jupyter.png "Jupyter/iPython Notebook tree")
     - Check logs on screen and firewalls etc if this does not happen
 - Using a notebook allows code and documentation to be combined.
 - To run the code in each cell either click the play button on the jupyter toolbar or press Shift-Enter.
@@ -53,6 +54,13 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 
 [https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/ "keyboard shortcuts")
 
+### Useful commands
+
+- ? - IPython’s features
+- %quickref - Quick reference Card
+- help - Python help
+- object? - details about an object 
+
 ## Other Links
 
 [http://scipy.org](http://scipy.org)
@@ -70,10 +78,3 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 [http://www.scipy.org/scipylib/index.html](http://www.scipy.org/scipylib/index.html)
 
 [http://matplotlib.org/resources/index.html#books-chapters-and-articles](http://matplotlib.org/resources/index.html#books-chapters-and-articles)
-
-### Useful commands
-
-- ? - IPython’s features
-- %quickref - Quick reference Card
-- help - Python help
-- object? - details about an object 
