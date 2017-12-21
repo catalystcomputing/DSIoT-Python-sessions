@@ -4,13 +4,14 @@
 
 ### Anaconda installation
 
-- The code in this session will work with either 32 bit or 64 bit versions
-- All code assumes Python 2.7
-- Anaconda installation give 300+ libraries and a package installation and maintenance
-
 Download installer for your environment, Anaconda runs on Windows, Mac OS and Linux.   
 
-[https://www.continuum.io/downloads](https://www.continuum.io/downloads "anaconda installation")
+[https://www.anaconda.com/download/](https://www.anaconda.com/download/ "anaconda installation")
+
+- The code in this session will work with either 32 bit or 64 bit versions
+- All code assumes Python 3.6
+- Anaconda installation give 100's libraries and a package installation and maintenance
+- To allow you to use the command line to run a Jupyter notebook installed by Anaconda add the `scripts` directory under windows or `bin` directory under Linux and MacOS.
 
 ## Using jupyter/iPython notebooks
 
@@ -34,7 +35,7 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 - Click on the `code` folder
 - In the code folder the exercises are numbered click on each one in turn
 - Session 01 jupyter notebooks
-- Sessions 2-6 Python basics
+- Sessions02-06 Python basics
     - Assignment
     - Flow Control
     - Data Structures
@@ -59,7 +60,7 @@ Download installer for your environment, Anaconda runs on Windows, Mac OS and Li
 - ? - IPython’s features
 - %quickref - Quick reference Card
 - help - Python help
-- object? - details about an object 
+- object? - details about an object
 
 ## Other Links
 
